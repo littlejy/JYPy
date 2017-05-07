@@ -1,6 +1,7 @@
 # Welcome to the JYPy wiki!
 
 
+
 # Block Elements
 To create a paragraph, simply create a block of text that is not separated by one or more blank lines. Blocks of text separated by one or more blank lines will be parsed as paragraphs.
 
